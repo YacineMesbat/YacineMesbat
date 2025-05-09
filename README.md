@@ -1,6 +1,5 @@
-# Hello and Welcome
 ### 👨‍💻 About Me  
-I'm a developer who thrives on learning and exploring new ideas. Whether it's diving into complex code, tackling challenges (like Malenia in Elden Ring), or pushing myself in sports, I'm always up for a challenge. Fueled by ☕, I believe in creating efficient solutions while having fun along the way.  
+Hey, I’m Yacine — professional rogue-semicolon hunter.
 
 ### 🚀 Tech Stack & Tools  
 
@@ -25,4 +24,4 @@ I'm a developer who thrives on learning and exploring new ideas. Whether it's di
 ---
 
 *Available in French 🥖 and English 🍵*  
-✨ *Let’s build something amazing together!*
+✨ *Let’s build something great together!*
